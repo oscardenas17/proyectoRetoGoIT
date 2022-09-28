@@ -1,6 +1,7 @@
 body{
     background-color: #F5F7FA;
     font-family: 'Montserrat', sans-serif;
+    box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1)
 }
 
 li{
@@ -117,6 +118,15 @@ li{
 .informacion-lateral{
     background-color: #1E2939;
     padding: 40px 0;
+}
+.titulo-educacion{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 0;
+    margin-bottom: 5px;
+
 }
 
 .titulo-lateral{
